@@ -1,0 +1,12 @@
+{
+    "namespace": "test.key",
+    "type": "record",
+    "name": "test_key",
+    "fields": [
+      {
+        "name": "key",
+        "type": "string",
+        "default": ""
+      }
+    ]
+  }

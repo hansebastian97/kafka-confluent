@@ -1,0 +1,32 @@
+{
+    "type": "record",
+    "name": "test",
+    "namespace": "test",
+    "fields": [
+        {
+            "name": "rental_date",
+            "type": "string",
+            "default": "null"
+        },
+        {
+            "name": "inventory_id",
+            "type": "int",
+            "default": 0
+        },
+        {
+            "name": "customer_id",
+            "type": "int",
+            "default": 0
+        },
+        {
+            "name": "return_date",
+            "type": "string",
+            "default": "null"
+        },
+        {
+            "name": "staff_id",
+            "type": "int",
+            "default": 0
+        }  
+    ]
+}

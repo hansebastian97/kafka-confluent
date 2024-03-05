@@ -1,0 +1,7 @@
+confluent_kafka
+avro-python3
+kafka
+kafka_logger
+datetime
+pandas
+mysql.connector
